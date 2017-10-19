@@ -1,0 +1,2 @@
+# NGI-RNAseq
+configurations，command
